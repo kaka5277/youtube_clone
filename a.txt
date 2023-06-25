@@ -1,2 +1,8 @@
 Youtube clone using html ,css, Javascript 
 https://www.youtube.com/watch?v=qcO3H7l0aaw
+
+本地：/Users/junlin/Desktop/workspace/my pro to my github/youtube_clone 
+远程仓库:https://github.com/kaka5277/youtube_clone.git
+部署后的链接：https://kaka5277.github.io/youtube_clone/
+图片不显示
+跨域，还在解决中
